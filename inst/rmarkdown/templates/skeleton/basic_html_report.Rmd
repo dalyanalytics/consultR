@@ -1,0 +1,39 @@
+---
+title: "Report 1"
+author: "Jasmine Dumas"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_download: true
+    fig_width: 6
+    fig_height: 4
+    theme: readable
+    highlight: tango
+---
+
+<img src="consultR-logo2.png" style="position:absolute;top:50px;right:0px;" />
+
+-------
+
+## Overview
+
+Meow to be let in sit in box. Damn that dog soft kitty warm kitty little ball of furr or bathe private parts with tongue then lick owner's face so thinking longingly about tuna brine chase the pig around the house so spread kitty litter all over house chirp at birds. Kitty power! cough furball and favor packaging over toy where is my slave? I'm getting hungry see owner, run in terror touch water with paw then recoil in horror or poop in litter box, scratch the walls. Missing until dinner time if it smells like fish eat as much as you wish and licks your face yet meow. Lick the other cats get video posted to internet for chasing red dot or please stop looking at your phone and pet me rub face on everything, so stare at ceiling light. 
+
+## Analysis
+
+Mark territory meow all night having their mate disturbing sleeping humans, soft kitty warm kitty little ball of furr yet throwup on your pillow. Chase ball of string pee in human's bed until he cleans the litter box yet sleep on dog bed, force dog to sleep on floor and eat from dog's food and climb leg, so chase imaginary bugs. Play time hiss at vacuum cleaner with tail in the air yet rub face on owner. Play riveting piece on synthesizer keyboard leave dead animals as gifts scratch leg; meow for can opener to feed me meow all night having their mate disturbing sleeping humans or spread kitty litter all over house present belly, scratch hand when stroked. Scream at teh bath meow. 
+
+## Notes
+
+Cat ipsum dolor sit amet, meow all night having their mate disturbing sleeping humans. Rub face on everything jump off balcony, onto stranger's head put toy mouse in food bowl run out of litter box at full speed so chew foot. Curl into a furry donut cats secretly make all the worlds muffins. Meow to be let in fall over dead (not really but gets sypathy), hide head under blanket so no one can see so destroy couch as revenge. Meow for food, then when human fills food dish, take a few bites of food and continue meowing howl uncontrollably for no reason or see owner, run in terror play riveting piece on synthesizer keyboard, so hate dog, and chase imaginary bugs. 
+
+## Hours
+
+
+
+## Contact
+
+
+<a href="mailto:jasmine.dumas@gmail.com" target="_blank" class="btn btn-info">Email Jasmine</a>

@@ -1,0 +1,12 @@
+Package: consultR
+Type: Package
+Title: Tools for consulting
+Version: 0.1.0
+Author: person("Jasmine", "Dumas", email = "jasmine.dumas@gmail.com",
+                  role = c("aut", "cre"))
+Maintainer: jasmine.dumas@gmail.com <jasmine.dumas@gmail.com>
+Description: This package provides functions, templates and tools
+    for consulting work.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
