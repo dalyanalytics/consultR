@@ -31,7 +31,11 @@ Cat ipsum dolor sit amet, meow all night having their mate disturbing sleeping h
 
 ## Hours
 
-
+|  Tables  |      Are      |  Cool |
+|:--------:|:-------------:|------:|
+| col 1 is |  left-aligned | 1 |
+| col 2 is |    centered   |   2 |
+| col 3 is | right-aligned |    3 |
 
 ## Contact
 
