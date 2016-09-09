@@ -1,0 +1,4 @@
+name: basic_html_report
+description: >
+ Template for creating a basic HTML report for consulting
+create_dir: true
