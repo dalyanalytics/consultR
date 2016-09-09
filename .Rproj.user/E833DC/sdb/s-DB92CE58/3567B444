@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# consultR\n\nThe goal of consultR is to provide functions and tools for consulting\n\n## Installation\n\nYou can install consultR from github with:\n\n```R\n# install.packages(\"devtools\")\ndevtools::install_github(\"consultR/consultR\")\n\n```\n\nPlease note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.\n\n## Contact\n\nPackage Author: Jasmine Dumas [@jasdumas](https://twitter.com/jasdumas) | [jasdumas.github.io/consulting](http://jasdumas.github.io/consulting/) | [consultR](https://consultr.github.io/)\n",
+    "created" : 1473459879711.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "436067042",
+    "id" : "3567B444",
+    "lastKnownWriteTime" : 1473459892,
+    "last_content_update" : 1473459892711,
+    "path" : "~/Desktop/R-directory/consultR/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "chunk_rendered_width" : "650"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

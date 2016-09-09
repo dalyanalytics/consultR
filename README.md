@@ -16,4 +16,4 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ## Contact
 
-Package Author: Jasmine Dumas [@jasdumas](https://twitter.com/jasdumas) | [jasdumas.github.io/consulting](http://jasdumas.github.io/) | [consultR](https://consultr.github.io/)
+Package Author: Jasmine Dumas [@jasdumas](https://twitter.com/jasdumas) | [jasdumas.github.io/consulting](http://jasdumas.github.io/consulting/) | [consultR](https://consultr.github.io/)
